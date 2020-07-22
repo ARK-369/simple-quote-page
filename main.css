@@ -1,0 +1,7 @@
+.img {
+  width: 480px;
+  max-width: calc(100vw - 10px);
+}
+.h1 {text-align: center;
+  text-decoration-color: aqua;
+}
